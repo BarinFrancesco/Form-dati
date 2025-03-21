@@ -1,0 +1,5 @@
+Mario, 170, 65, M
+Emma, 165, 55, F
+Maria, 155, 55, F
+Falcari, 190, 55, M
+Giovanni, 150, 75, M

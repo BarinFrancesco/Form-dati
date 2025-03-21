@@ -1,0 +1,20 @@
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\bin\Debug\FormDati.exe.config
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\bin\Debug\FormDati.exe
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\bin\Debug\FormDati.pdb
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\obj\Debug\FormDati.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\obj\Debug\FormDati.Form1.resources
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\obj\Debug\FormDati.Properties.Resources.resources
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\obj\Debug\FormDati.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\obj\Debug\FormDati.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\obj\Debug\FormDati.exe
+C:\Users\gabri\Desktop\Scuola_\INFORMATICA\TEORIA\c#\FormDati\FormDati\obj\Debug\FormDati.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\bin\Debug\FormDati.exe.config
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\bin\Debug\FormDati.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\bin\Debug\FormDati.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\obj\Debug\FormDati.csproj.AssemblyReference.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\obj\Debug\FormDati.Form1.resources
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\obj\Debug\FormDati.Properties.Resources.resources
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\obj\Debug\FormDati.csproj.GenerateResource.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\obj\Debug\FormDati.csproj.CoreCompileInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\obj\Debug\FormDati.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Form-dati\FormDati\FormDati\obj\Debug\FormDati.pdb
